@@ -1,0 +1,23 @@
+.cabecalho{
+    font-size: 23px;
+    width: 100%;
+    margin: 0%;
+    box-shadow: 10px 10px 20px black;
+}
+.nota{
+    font-size: 15px;
+    color:blue;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+    color: aliceblue;
+    text-align: center;
+}
+canvas{
+    border: 3px double gray;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px greenyellow;
+}
